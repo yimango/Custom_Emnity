@@ -1,7 +1,7 @@
 {
     "name": "yimango_custom",
     "description": "Based off the RoyalUndella theme, but with a custom background image and some other tweaks.",
-    "version": "1.1",
+    "version": "1.2",
     "authors": [
       {
         "name": "mortyick",
@@ -10,11 +10,11 @@
     ],
     "theme_color_map": {
       "HEADER_PRIMARY": [
-        "#60668b",
-        "#23232d"
+        "#36435c",
+        "#23282d"
       ],
       "HEADER_SECONDARY": [
-        "#d68c9e",
+        "#23b2fa",
         "#3d4858"
       ],
       "TEXT_NORMAL": [
@@ -42,11 +42,11 @@
         "#c7ccd1"
       ],
       "BACKGROUND_PRIMARY": [
-        "#292538",
+        "#23b2fa",
         "#ffffff"
       ],
       "BACKGROUND_SECONDARY": [
-        "#292538",
+        "#36435c",
         "#f2f3f5"
       ],
       "BACKGROUND_SECONDARY_ALT": [
@@ -151,7 +151,7 @@
       "CHAT_GREY": "#13151a"
     },
     "background": {
-      "blur": 0.1,
+      "blur": 0.7,
       "url": "https://wallpaperaccess.com/full/3532111.jpg",
       "alpha": 1.0
     }
